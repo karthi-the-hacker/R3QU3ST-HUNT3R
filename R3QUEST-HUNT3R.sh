@@ -9,7 +9,7 @@ mkdir ~/recon/$comp
 n=1
 cd ~/recon/$comp/
 mkdir req-maker
-cd req-maker
+cd req-hunter
 while read line;do
  echo " Domain $n : $line"
  echo $line | tee -a $fl.txt
