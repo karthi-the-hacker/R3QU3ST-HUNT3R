@@ -11,3 +11,5 @@ Steps to install :-
 3) chmod 777 .banner.sh
 4) chmod 777 R3QUEST-HUNT3R.sh
 5) ./R3QUEST-HUNT3R.sh
+
+Output of the R3CONH4CK3R goes to input of the R3QUEST-HUNT3R
