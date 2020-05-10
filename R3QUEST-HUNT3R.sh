@@ -4,11 +4,11 @@ clear
 ./.banner.sh
 
 read -p "Enter file name: " fl
-read -p "Enter comany name: " comp
+read -p "Enter company name: " comp
 mkdir ~/recon/$comp
 n=1
 cd ~/recon/$comp/
-mkdir req-maker
+mkdir req-hunter
 cd req-hunter
 while read line;do
  echo " Domain $n : $line"
